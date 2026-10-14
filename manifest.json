@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "IRONLOG — дневник тренировок",
+  "short_name": "IRONLOG",
+  "description": "Личный дневник тренировок и статистики",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#10120f",
+  "theme_color": "#10120f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
